@@ -1202,7 +1202,7 @@ h4{
     line-height: 50px;
 }
 .quote-form {
-  padding-top: 40px;
+  /* padding-top: 40px; */
 }
 .contact-section .contact-box{
   flex-direction: column;
@@ -1418,7 +1418,7 @@ h2 {
 }
 .pop-form {
     padding: 20px 20px 20px;
-    width: 95%;
+    width: 90%;
 }
 .quote-form .f-group input, .quote-form .f-group select, .quote-form .f-group textarea {
     padding: 10px 20px;
